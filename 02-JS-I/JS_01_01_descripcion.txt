@@ -1,0 +1,6 @@
+variable: es darle un valor o significado a algo, utilizando la palabra clave var = 'y la palabra entre comilla'
+instrumento de cuerdas: es una cadena de palalbras o caracteres, que tambien van entre 'comillas'
+funciones: las funciones ayudan a no tener que repetir una o unas constantes. va la palabra funtion y luego el nombre de la funciones seguido de las variables entre 
+().
+Declaraciones: el if se utiliza cuando estas pidiendo que te devuelva algo en base a determinadas condiciones.
+valores booleanos: son las devoluciones que mencionamos arriba.
